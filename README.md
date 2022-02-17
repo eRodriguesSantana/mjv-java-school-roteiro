@@ -35,7 +35,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java patrocin
 | Seg  | Construtores, java beans, objetos, classes utilitárias, métodos estáticos, comentários e documentação.
 | Ter  | UML diagrama de classe, pilares da orientação a objetos,maven, conceito de testes e testes unitários com JUnit com ênfase ao desafio dinal Easy Job.
 | Qua  | Apresentação dos grupos do exercício [Power Classes](https://github.com/digytal-code/mjv-java-school/tree/main/exercicios/power-classes), trabalhando com arquivos csv e exemplos de leitura de arquivo  delimitado versus posicional.   
-| Qui  | Palavras reservadas, enums, arrays, framework collections, e apresentar o exercício semanal: [Leitor Ficha Profissional](https://github.com/glysns/mjv-java-school/tree/main/exercicios/leitor-ficha-profissional) .
+| Qui  | Palavras reservadas, enums, arrays, framework collections, e apresentar o exercício semanal: [Leitor Ficha Profissional](https://github.com/digytal-code/mjv-java-school/tree/main/exercicios/leitor-ficha-profissional).
 
 ##### Terceira semana
 
@@ -43,7 +43,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java patrocin
 | -------- | --------
 | Seg  | Noções de banco de dados, instalando o Postgre e MySQL, DBeaver, operações SQL [DDL / DML / DQL].
 | Ter  | Persistência de dados com JDBC, DAO, dinâmica de grupo  em aula sobre CRUD com JDBC.
-| Qua  | Apresentação dos grupos do exercício Leitor Ficha Profissional, Introdução a ORM, JPA, Hibernate.   
+| Qua  | Apresentação dos grupos do exercício [Leitor Ficha Profissional](https://github.com/digytal-code/mjv-java-school/tree/main/exercicios/leitor-ficha-profissional), Introdução a ORM, JPA, Hibernate.   
 | Qui  | Imersão ao Spring Framework, Spring Boot e Spring Data JPA.
 
 ##### Quarta semana
