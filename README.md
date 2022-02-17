@@ -26,7 +26,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java patrocin
 | Seg  | Abertura da school, distribuição dos grupos, introdução e dinâmica de grupo sobre Git.
 | Ter  | Configurar o ambiente de desenvolvimento, criar um primeiro programa, conhecer a estrutura de uma classe, atributos variáveis e métodos, operadores.
 | Qua  | Paradigma da orientação a objetos, classes, objetos, instância, manipulação de objetos e tipos de classes.   
-| Qui  | Explorar as classes mais utilizadas para trabalhar com texto, número, data e controle de fluxo. Explicar o exercício semanal: Power Classes 
+| Qui  | Explorar as classes mais utilizadas para trabalhar com texto, número, data e controle de fluxo. Explicar o exercício semanal: [Power Classes](https://github.com/glysns/mjv-java-school/tree/main/exercicios/power-classes) 
 
 ##### Segunda semana
 
