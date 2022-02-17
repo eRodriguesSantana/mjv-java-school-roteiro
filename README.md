@@ -26,7 +26,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java patrocin
 | Seg  | Abertura da school, distribuição dos grupos, introdução e dinâmica de grupo sobre Git.
 | Ter  | Configurar o ambiente de desenvolvimento, criar um primeiro programa, conhecer a estrutura de uma classe, atributos variáveis e métodos, operadores.
 | Qua  | Paradigma da orientação a objetos, classes, objetos, instância, manipulação de objetos e tipos de classes.   
-| Qui  | Explorar as classes mais utilizadas para trabalhar com texto, número, data e controle de fluxo. Explicar o exercício semanal: [Power Classes](https://github.com/glysns/mjv-java-school/tree/main/exercicios/power-classes) 
+| Qui  | Explorar as classes mais utilizadas para trabalhar com texto, número, data e controle de fluxo. Explicar o exercício semanal: [Power Classes](https://github.com/digytal-code/mjv-java-school/tree/main/exercicios/power-classes) 
 
 ##### Segunda semana
 
@@ -34,7 +34,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java patrocin
 | -------- | --------
 | Seg  | Construtores, java beans, objetos, classes utilitárias, métodos estáticos, comentários e documentação.
 | Ter  | UML diagrama de classe, pilares da orientação a objetos,maven, conceito de testes e testes unitários com JUnit com ênfase ao desafio dinal Easy Job.
-| Qua  | Apresentação dos grupos do exercício [Power Classes](https://github.com/glysns/mjv-java-school/tree/main/exercicios/power-classes), trabalhando com arquivos csv e exemplos de leitura de arquivo  delimitado versus posicional.   
+| Qua  | Apresentação dos grupos do exercício [Power Classes](https://github.com/digytal-code/mjv-java-school/tree/main/exercicios/power-classes), trabalhando com arquivos csv e exemplos de leitura de arquivo  delimitado versus posicional.   
 | Qui  | Palavras reservadas, enums, arrays, framework collections, e apresentar o exercício semanal: [Leitor Ficha Profissional](https://github.com/glysns/mjv-java-school/tree/main/exercicios/leitor-ficha-profissional) .
 
 ##### Terceira semana
