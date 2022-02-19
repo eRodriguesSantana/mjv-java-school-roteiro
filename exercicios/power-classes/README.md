@@ -51,5 +51,9 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 - Atuar em conjunto para resolver o item 1 de requisitos e depois tentar distribuir entre os integrantes do grupo
 - Testes, testes e mais testes, pensem previamente no resultado e validem no console
 - O Grupo 04 poderá/deverá interagir com os demais grupos
+- A apresentação será realizada em 10 minutos
+- Definam antecipadamente a ordem dos apresentadores
+- Usem o próprio README.md com os recursos de Markdown.
+- Preferencialmente subam o conteúdo (apresentação + exemplos) no repositório da School
 
 
