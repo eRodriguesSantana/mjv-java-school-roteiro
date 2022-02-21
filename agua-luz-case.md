@@ -1,6 +1,6 @@
-# Agua Luz - Control - Case
+# Água / Luz - Notification - Case
 
-Nossa fabrica de software foi designada a criar um aplicativo para notificar confirmação de contrato de instalação de água e luz em cadastros realizados em sua cidade.
+Nossa fabrica de software foi designada a criar um aplicativo para notificar confirmação de `Contrato` de instalação de água e luz em `Cadastro`s realizados em sua cidade.
 
 ###### O aplicativo deverá enviar a seguinte mensagem:
 
