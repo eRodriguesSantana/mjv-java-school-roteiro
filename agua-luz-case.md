@@ -6,11 +6,12 @@ O aplicativo deverá enviar a seguinte mensagem:
 
 Senhor(a) **Gleyson Sampaio**,
 Informamos que conforme contrato com protocolo de número **2022025687** está agendado para a data **21/02/2022** as **16:00h** a instalação da **Água\Luz** com taxa de valor R$ **127,33** em sua residência localizada no endereço abaixo:
-Logradouro: **Rua das Marias, 243**
-Complemento: **Ap 207, Bloco C**
-Bairro: **Santo Antonio**
-Cidade: **São Paulo / SP**
-Cep: **27.310-657**
+
+- Logradouro: **Rua das Marias, 243**
+- Complemento: **Ap 207, Bloco C**
+- Bairro: **Santo Antonio**
+- Cidade: **São Paulo / SP**
+- Cep: **27.310-657**
 
 A primeira versão deverá contemplar o envio da notificação via
 SMS para o número do celular cadastrado.
