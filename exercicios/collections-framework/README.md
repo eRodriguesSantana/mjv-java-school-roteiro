@@ -3,7 +3,7 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## Power Classes
+## Collections Framework
 O nosso desafio é explorar o recurso de Collections Framework Java.
 
 #### Requisitos
