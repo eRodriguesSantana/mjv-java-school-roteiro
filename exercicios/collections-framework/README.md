@@ -7,7 +7,7 @@
 O nosso desafio é explorar o recurso de Collections Framework Java.
 
 #### Requisitos
-1. Realizar uma breve descrição da classe em questão;
+1. Realizar uma breve descrição da interface em questão;
 1. Apresentar no mínimo 04 métodos mais utilizados destacando o seu contrato (tipo retorno + nome + parâmetros);
 1. Apresentar se alguns dos métodos é `sobrecarregado`;
 1. Realizar uma demonstração adaptando o uso dos métodos (mínimo 04) em situações do cotidiando (use a imaginação);
