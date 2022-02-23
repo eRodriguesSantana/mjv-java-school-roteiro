@@ -55,5 +55,10 @@ Segue regras para posicionamento dos campos para o layout
 4. COMPLEMENTO: 10 dígitos
 5. BAIRRO: 15 dígitos
 6. CIDADE_UF: 20 dígitos + UF 2 dígitos
-7. CEP: 8 dígitos sem caracteres especiais;    
+7. CEP: 8 dígitos sem caracteres especiais;
+8. PROTOCOLO:10 dígitos
+9. DATA: 8 dígitos formato YYYYMMDD
+10. HORA: 4 dígitos formato HHMM
+11. Tipo instalacao: 1 dígito A ou L
+12. Valor: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
   
