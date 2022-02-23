@@ -35,5 +35,5 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 - Cep: **27.310-657**
 
 1. Podem existir cadastros fora do Brasil.
-2. Valores data e momentários dever consideração a localização do cadastro
+2. Valores data e momentários devem considerar a localização do cadastro
 3. Existem dois serviços com valores fixos: Água R$ 137,21 e Energia R$ 132,15
