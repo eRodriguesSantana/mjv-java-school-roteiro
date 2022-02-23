@@ -59,6 +59,6 @@ Segue regras para posicionamento dos campos para o layout
 8. PROTOCOLO:10 dígitos
 9. DATA: 8 dígitos formato YYYYMMDD
 10. HORA: 4 dígitos formato HHMM
-11. Tipo instalacao: 1 dígito A ou L
-12. Valor: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
+11. TIPO_INSTALACAO: 1 dígito A ou L
+12. VALOR: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
   
