@@ -43,22 +43,25 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 1. Serão dois projetos Java Maven denominados: agua-luz-atracao e agua-luz-notificacao
 2. O projeto agua-luz-atracao deverá disponibilizar um mecanismo de inclusão dos dados de cadastro (fake banco de dados)
 3. O projeto agua-luz-atracao deverá disponibilizar dois arquivos no diretório `C:\estudo\mjv-java-school\agua-luz-output` com os nomes abaixo:
-  - agua-luz-cadastros.csv obedecendo o layout padrão delimitador (;) 
-  - agua-luz-cadastros.txt obedecendo o layout padrão posicional
+  - agua-luz-contratos.csv obedecendo o layout padrão delimitador (;) 
+  - agua-luz-contratos.txt obedecendo o layout padrão posicional
+4. O projeto agua-luz-notificacao deverá realizar a leitura dos contratos pelo arquivo `agua-luz-contratos.txt` para poder criar e enviar a mensagem via Sms ou Whatsapp
+5. O projeto agua-luz-notificacao deverá realizar a geração de arquivo `contrato-xxx.txt` contendo a mensagem gerada. (Este requisito é um PLUS)
 
 ###### Layout posicional
 
 Segue regras para posicionamento dos campos para o layout
 1. CPF: 11 dígitos sem caracteres especiais;
 2. NOME: 30 dígitos
-3. LOGRADOURO: 20 dígitos
-4. COMPLEMENTO: 10 dígitos
-5. BAIRRO: 15 dígitos
-6. CIDADE_UF: 20 dígitos + UF 2 dígitos
-7. CEP: 8 dígitos sem caracteres especiais;
-8. PROTOCOLO:10 dígitos
-9. DATA: 8 dígitos formato YYYYMMDD
-10. HORA: 4 dígitos formato HHMM
-11. TIPO_INSTALACAO: 1 dígito A ou L
-12. VALOR: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
+3. CELULAR: 11 dígitos sem caracteres especiais;
+4. LOGRADOURO: 20 dígitos
+5. COMPLEMENTO: 10 dígitos
+6. BAIRRO: 15 dígitos
+7. CIDADE_UF: 20 dígitos + UF 2 dígitos
+8. CEP: 8 dígitos sem caracteres especiais;
+9. PROTOCOLO:10 dígitos
+10. DATA: 8 dígitos formato YYYYMMDD
+11. HORA: 4 dígitos formato HHMM
+12. TIPO_INSTALACAO: 1 dígito A ou L
+13. VALOR: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
   
