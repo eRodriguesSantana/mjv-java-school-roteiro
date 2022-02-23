@@ -37,3 +37,12 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 1. Podem existir cadastros fora do Brasil.
 2. Valores data e momentários devem considerar a localização do cadastro
 3. Existem dois serviços com valores fixos: Água R$ 137,21 e Energia R$ 132,15
+
+###### Arquitetura
+
+1. Serão dois projetos Java Maven denominados: agua-luz-atracao e agua-luz-notificacao
+2. O projeto agua-luz-atracao deverá disponibilizar um mecanismo de inclusão dos dados de cadastro
+3. O projeto agua-luz-atracao deverá disponibilizar um arquivo de nome:
+  - agua-luz-cadastros.csv obedecendo o layout padrão delimitador (;) 
+  - agua-luz-cadastros.txt obedecendo o layout padrão posicional 
+  
