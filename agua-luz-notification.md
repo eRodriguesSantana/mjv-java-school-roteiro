@@ -25,7 +25,7 @@ Nossa fabrica de software foi designada a criar um aplicativo para atrair e noti
 
 ###### O aplicativo deverá enviar a seguinte mensagem:
 
-Senhor(a) **Gleyson Sampaio**,
+Senhor(a) **Gleyson Sampaio** cpf de número **234.765.987-27**,
 Informamos que conforme contrato com protocolo de número **2022025687** está agendado para a data **21/02/2022** as **16:00h** a instalação da **Água\Luz** com taxa de valor R$ **127,33** em sua residência localizada no endereço abaixo:
 
 - Logradouro: **Rua das Marias, 243**
@@ -41,8 +41,19 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 ###### Arquitetura
 
 1. Serão dois projetos Java Maven denominados: agua-luz-atracao e agua-luz-notificacao
-2. O projeto agua-luz-atracao deverá disponibilizar um mecanismo de inclusão dos dados de cadastro
+2. O projeto agua-luz-atracao deverá disponibilizar um mecanismo de inclusão dos dados de cadastro (fake banco de dados)
 3. O projeto agua-luz-atracao deverá disponibilizar um arquivo de nome:
   - agua-luz-cadastros.csv obedecendo o layout padrão delimitador (;) 
-  - agua-luz-cadastros.txt obedecendo o layout padrão posicional 
+  - agua-luz-cadastros.txt obedecendo o layout padrão posicional
+
+###### Layout posicional
+
+Segue regras para posicionamento dos campos para o layout
+1. CPF: 11 dígitos sem caracteres especiais;
+2. NOME: 30 dígitos
+3. LOGRADOURO: 20 dígitos
+4. COMPLEMENTO: 10 dígitos
+5. BAIRRO: 15 dígitos
+6. CIDADE_UF: 20 dígitos + UF 2 dígitos
+7. CEP: 8 dígitos sem caracteres especiais;    
   
