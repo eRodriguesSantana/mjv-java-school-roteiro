@@ -42,7 +42,7 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 
 1. Serão dois projetos Java Maven denominados: agua-luz-atracao e agua-luz-notificacao
 2. O projeto agua-luz-atracao deverá disponibilizar um mecanismo de inclusão dos dados de cadastro (fake banco de dados)
-3. O projeto agua-luz-atracao deverá disponibilizar um arquivo de nome:
+3. O projeto agua-luz-atracao deverá disponibilizar dois arquivos no diretório `C:\estudo\mjv-java-school\agua-luz-output` com os nomes abaixo:
   - agua-luz-cadastros.csv obedecendo o layout padrão delimitador (;) 
   - agua-luz-cadastros.txt obedecendo o layout padrão posicional
 
