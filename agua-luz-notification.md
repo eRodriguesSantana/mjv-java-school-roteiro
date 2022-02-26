@@ -51,6 +51,12 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 ###### Layout posicional
 
 Segue regras para posicionamento dos campos para o layout
+
+| Campo  | Ordem |Tam.|Texto Original|Texto Layout
+| ------ | ----- |--- | ------------ | ------------- |
+| CPF | 01 |11 | 007.324.223.21 | 00732422321 |
+
+
 1. CPF: 11 dígitos sem caracteres especiais;
 2. NOME: 30 dígitos
 3. CELULAR: 11 dígitos sem caracteres especiais;
