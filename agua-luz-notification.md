@@ -55,11 +55,12 @@ Segue regras para posicionamento dos campos para o layout
 | Campo  | Ordem |Tam.|Texto Original|Texto Layout
 | ------ | ----- |--- | ------------ | ------------- |
 | CPF | 01 |11 | 007.324.223.21 | 00732422321 |
+| NOME | 02 |30 | Raimundo Nonato Loureiro Castelo Branco | RAIMUNDO NONATO LOUREIRO CASTE |
+| CELULAR | 03 |11 | (11) 99768-1515 | 11997681515 |
+| LOGRADOURO | 04 |20 | Rua Sebastião Firmino| RUA SEBASTIÃO FIRMI |
+| NUMERO | 05 |06 | 123| 000123 |
 
 
-1. CPF: 11 dígitos sem caracteres especiais;
-2. NOME: 30 dígitos
-3. CELULAR: 11 dígitos sem caracteres especiais;
 4. LOGRADOURO: 20 dígitos
 5. COMPLEMENTO: 10 dígitos
 6. BAIRRO: 15 dígitos
