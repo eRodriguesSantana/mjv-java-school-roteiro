@@ -59,12 +59,12 @@ Segue regras para posicionamento dos campos para o layout
 | CELULAR | 03 |11 | (11) 99768-1515 | 11997681515 |
 | LOGRADOURO | 04 |20 | Rua Sebastião Firmino| RUA SEBASTIÃO FIRMI |
 | NUMERO | 05 |06 | 123| 000123 |
+| COMPLEMENTO | 06 |10 | AP 210 BL CENTAURO| AP 210 BL |
+| BAIRRO | 07 |15 | São Sebastião| SÃO SEBASTIÃO |
+| CIDADE | 08 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           |
 
 
-4. LOGRADOURO: 20 dígitos
-5. COMPLEMENTO: 10 dígitos
-6. BAIRRO: 15 dígitos
-7. CIDADE_UF: 20 dígitos + UF 2 dígitos
+7. CIDADE_UF: 30 dígitos + UF 2 dígitos
 8. CEP: 8 dígitos sem caracteres especiais;
 9. PROTOCOLO:10 dígitos
 10. DATA: 8 dígitos formato YYYYMMDD
