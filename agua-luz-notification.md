@@ -62,13 +62,10 @@ Segue regras para posicionamento dos campos para o layout
 | COMPLEMENTO | 06 |10 | AP 210 BL CENTAURO| AP 210 BL |
 | BAIRRO | 07 |15 | São Sebastião| SÃO SEBASTIÃO |
 | CIDADE | 08 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           |
-
-
-7. CIDADE_UF: 30 dígitos + UF 2 dígitos
-8. CEP: 8 dígitos sem caracteres especiais;
-9. PROTOCOLO:10 dígitos
-10. DATA: 8 dígitos formato YYYYMMDD
-11. HORA: 4 dígitos formato HHMM
-12. TIPO_INSTALACAO: 1 dígito A ou L
-13. VALOR: 8 dígitos removendo os símbolos e preenchendo com zero a esquerda
-  
+| UF | 09 |02 | Sp| SP|
+| CEP | 10 |08 | 07.210.715 | O7210715 |
+| PROTOCOLO | 11 |10 | 1984365 | 0001984365 |
+| DATA | 12 |08 | 07/05/2022 | 20220507 |
+| HORA | 13 |04 | 15:21 | 1521 |
+| TIPO | 14 |01 | AGUA ou LUZ | A ou L |
+| VALOR | 15 |08 | 127,35 | 00012735 |
