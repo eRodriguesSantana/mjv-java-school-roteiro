@@ -94,6 +94,10 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 | Inteiro       | INT, BIGINT, SMALLINT| INT |
 | Decimal       | DECIMAL, FLOAT, NUMERIC (c,p)| DECIMAL |
 | Data / Hora   | DATE, TIME, DATETIME, TIMESTEMP| DATE |
+| Lógico        | BIT (0/1), BOOLEAN, CHAR(1)| AMBOS |
+| Estrutural    | BLOB, JSON| JSON |
+| Binário (image) | BLOB | BLOB |
+
 
 
 
