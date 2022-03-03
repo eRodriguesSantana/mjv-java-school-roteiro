@@ -69,3 +69,7 @@ Segue regras para posicionamento dos campos para o layout
 | HORA | 13 |04 | 15:21 | 1521 |
 | TIPO | 14 |01 | AGUA ou LUZ | A ou L |
 | VALOR | 15 |08 | 127,35 | 00012735 |
+
+#### Case 3
+
+Nossa fabrica de software agora precisará armazenar os dados de atração em um banco de dados relacional PostgreSQL ou MySQL.
