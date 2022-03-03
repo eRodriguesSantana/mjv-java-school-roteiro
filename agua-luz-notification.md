@@ -80,5 +80,12 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 | ------ | ----- | ---- | ---- | -- | -- |
 | id | N |* | | S |S
 
+| Sigla | Descrição |
+| ----- | --------- | 
+| AI    | Auto increment|
+| NN    | Not Null|
+
+
+
 
 
