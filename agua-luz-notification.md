@@ -72,4 +72,13 @@ Segue regras para posicionamento dos campos para o layout
 
 #### Case 3
 
-Nossa fabrica de software agora precisará armazenar os dados de atração em um banco de dados relacional PostgreSQL ou MySQL.
+Nossa fabrica de software agora precisará armazenar os dados de atração em um banco de dados relacional PostgreSQL ou MySQL com base no layout `agua-luz-contratos.txt`. Logo precisaremos criar uma tabela `tab_contrato` determinando o DDL compatível com os registros na atração.
+
+Segue modelo de DDL definição da tabela `tab_contrato`:
+
+| Campo  | Tipo  | Tam. | Prec.| AI | NN |
+| ------ | ----- | ---- | ---- | -- | -- |
+| id | N |* | | S |S
+
+
+
