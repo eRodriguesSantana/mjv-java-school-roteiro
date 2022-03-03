@@ -80,10 +80,20 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 | ------ | ----- | ---- | ---- | -- | -- |
 | id | N |* | | S |S
 
+
+###### Glossário
+
 | Sigla | Descrição |
 | ----- | --------- | 
 | AI    | Auto increment|
 | NN    | Not Null|
+
+| Tipo | Conjunto | +Usado  |
+| ---- | -------- | ------- |  
+| Texto         | CHAR, VARCHAR, TEXT| VARCHAR |
+| Inteiro       | INT, BIGINT, SMALLINT| INT |
+| Decimal       | DECIMAL, FLOAT, NUMERIC (c,p)| DECIMAL |
+| Data / Hora   | DATE, TIME, DATETIME, TIMESTEMP| DATE |
 
 
 
