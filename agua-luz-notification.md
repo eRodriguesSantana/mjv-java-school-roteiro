@@ -70,7 +70,7 @@ Segue regras para posicionamento dos campos para o layout
 | HORA | 14 |04 | 15:21 | 1521 |
 | TIPO SERVIÇO | 15 |01 | AGUA ou LUZ | A ou L |
 | VALOR | 16 |08 | 127,35 | 00012735 |
-| TIPO NOTIFICACAO | 17 |01 | SMS ou WHATS | S ou W |
+| TIPO NOTIFICACAO ** | 17 |01 | SMS ou WHATS | S ou W |
 
 #### Case 3
 
