@@ -67,11 +67,11 @@ Segue regras para posicionamento dos campos para o layout
 | CEP | 11 |08 | 07.210.715 | O7210715 | 145 | 153
 | PAIS ** | 12 |02 | Brasil | BR (criar enum com sigla dos Paises ISO-2) |  153 | 155
 | PROTOCOLO | 13 |10 | 1984365 | 0001984365 | 155 | 165
-| DATA | 14 |08 | 07/05/2022 | 20220507 | 165 | 177
-| HORA | 15 |04 | 15:21 | 1521 |
-| TIPO SERVIÇO | 16 |01 | AGUA ou LUZ | A ou L |
-| VALOR | 17 |08 | 127,35 | 00012735 |
-| TIPO NOTIFICACAO ** | 18 |01 | SMS ou WHATS | S ou W |
+| DATA | 14 |08 | 07/05/2022 | 20220507 | 165 | 173
+| HORA | 15 |04 | 15:21 | 1521 | 173 | 177
+| TIPO SERVIÇO | 16 |01 | AGUA ou LUZ | A ou L | 177 | 179
+| VALOR | 17 |08 | 127,35 | 00012735 | 179 | 186
+| TIPO NOTIFICACAO ** | 18 |01 | SMS ou WHATS | S ou W | 186 | 187
 
 #### Case 3
 
