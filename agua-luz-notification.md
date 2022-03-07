@@ -65,12 +65,13 @@ Segue regras para posicionamento dos campos para o layout
 | CIDADE | 09 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           |
 | UF | 10 |02 | Sp| SP|
 | CEP | 11 |08 | 07.210.715 | O7210715 |
-| PROTOCOLO | 12 |10 | 1984365 | 0001984365 |
-| DATA | 13 |08 | 07/05/2022 | 20220507 |
-| HORA | 14 |04 | 15:21 | 1521 |
-| TIPO SERVIÇO | 15 |01 | AGUA ou LUZ | A ou L |
-| VALOR | 16 |08 | 127,35 | 00012735 |
-| TIPO NOTIFICACAO ** | 17 |01 | SMS ou WHATS | S ou W |
+| PAIS ** | 12 |02 | Brasil | BR (criar enum com sigla dos Paises ISO-2) |
+| PROTOCOLO | 13 |10 | 1984365 | 0001984365 |
+| DATA | 14 |08 | 07/05/2022 | 20220507 |
+| HORA | 15 |04 | 15:21 | 1521 |
+| TIPO SERVIÇO | 16 |01 | AGUA ou LUZ | A ou L |
+| VALOR | 17 |08 | 127,35 | 00012735 |
+| TIPO NOTIFICACAO ** | 18 |01 | SMS ou WHATS | S ou W |
 
 #### Case 3
 
