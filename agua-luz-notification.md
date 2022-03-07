@@ -68,8 +68,9 @@ Segue regras para posicionamento dos campos para o layout
 | PROTOCOLO | 12 |10 | 1984365 | 0001984365 |
 | DATA | 13 |08 | 07/05/2022 | 20220507 |
 | HORA | 14 |04 | 15:21 | 1521 |
-| TIPO | 15 |01 | AGUA ou LUZ | A ou L |
+| TIPO SERVIÇO | 15 |01 | AGUA ou LUZ | A ou L |
 | VALOR | 16 |08 | 127,35 | 00012735 |
+| TIPO NOTIFICACAO | 17 |01 | SMS ou WHATS | S ou W |
 
 #### Case 3
 
