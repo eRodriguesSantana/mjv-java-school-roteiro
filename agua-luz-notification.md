@@ -57,17 +57,17 @@ Segue regras para posicionamento dos campos para o layout
 | CPF | 01 |11 | 007.324.223.21 | 00732422321 | 0 | 11
 | RG | 02 |10 | 337655 | 337655 | 11 | 21
 | NOME | 03 |30 | Raimundo Nonato Loureiro Castelo Branco | RAIMUNDO NONATO LOUREIRO CASTE | 21 | 51
-| CELULAR | 04 |11 | (11) 99768-1515 | 11997681515 |
-| LOGRADOURO | 05 |20 | Rua Sebastião Firmino| RUA SEBASTIÃO FIRMI |
-| NUMERO | 06 |06 | 123| 000123 |
-| COMPLEMENTO | 07 |10 | AP 210 BL CENTAURO| AP 210 BL |
-| BAIRRO | 08 |15 | São Sebastião| SÃO SEBASTIÃO |
-| CIDADE | 09 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           |
-| UF | 10 |02 | Sp| SP|
-| CEP | 11 |08 | 07.210.715 | O7210715 |
-| PAIS ** | 12 |02 | Brasil | BR (criar enum com sigla dos Paises ISO-2) |
-| PROTOCOLO | 13 |10 | 1984365 | 0001984365 |
-| DATA | 14 |08 | 07/05/2022 | 20220507 |
+| CELULAR | 04 |11 | (11) 99768-1515 | 11997681515 | 51 | 62
+| LOGRADOURO | 05 |20 | Rua Sebastião Firmino| RUA SEBASTIÃO FIRMI | 62 | 82
+| NUMERO | 06 |06 | 123| 000123 | 82 | 88
+| COMPLEMENTO | 07 |10 | AP 210 BL CENTAURO| AP 210 BL | 88 | 98
+| BAIRRO | 08 |15 | São Sebastião| SÃO SEBASTIÃO | 98 | 113
+| CIDADE | 09 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           | 113 | 143 
+| UF | 10 |02 | Sp| SP| 143 | 145
+| CEP | 11 |08 | 07.210.715 | O7210715 | 145 | 153
+| PAIS ** | 12 |02 | Brasil | BR (criar enum com sigla dos Paises ISO-2) |  153 | 155
+| PROTOCOLO | 13 |10 | 1984365 | 0001984365 | 155 | 165
+| DATA | 14 |08 | 07/05/2022 | 20220507 | 165 | 177
 | HORA | 15 |04 | 15:21 | 1521 |
 | TIPO SERVIÇO | 16 |01 | AGUA ou LUZ | A ou L |
 | VALOR | 17 |08 | 127,35 | 00012735 |
