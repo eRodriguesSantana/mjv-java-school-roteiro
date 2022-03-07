@@ -52,11 +52,11 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 
 Segue regras para posicionamento dos campos para o layout
 
-| Campo  | Ordem |Tam.|Texto Original|Texto Layout
-| ------ | ----- |--- | ------------ | ------------- |
-| CPF | 01 |11 | 007.324.223.21 | 00732422321 |
-| RG | 02 |10 | 337655 | 337655 |
-| NOME | 03 |30 | Raimundo Nonato Loureiro Castelo Branco | RAIMUNDO NONATO LOUREIRO CASTE |
+| Campo  | Ordem |Tam.|Texto Original|Texto Layout   | Ini | Fim |
+| ------ | ----- |--- | ------------ | ------------- | --- | --- |
+| CPF | 01 |11 | 007.324.223.21 | 00732422321 | 0 | 11
+| RG | 02 |10 | 337655 | 337655 | 11 | 21
+| NOME | 03 |30 | Raimundo Nonato Loureiro Castelo Branco | RAIMUNDO NONATO LOUREIRO CASTE | 21 | 51
 | CELULAR | 04 |11 | (11) 99768-1515 | 11997681515 |
 | LOGRADOURO | 05 |20 | Rua Sebastião Firmino| RUA SEBASTIÃO FIRMI |
 | NUMERO | 06 |06 | 123| 000123 |
